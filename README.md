@@ -31,7 +31,7 @@ I’m a passionate Computer Science student from Chennai, India, focused on buil
 | **Languages**         | Python • C • Java • JavaScript • TypeScript                    |
 | **Web & Frameworks**  | HTML • CSS • React • Node.js • Express • Streamlit • FastAPI    |
 | **Databases**         | MySQL • MongoDB                                                 |
-| **AI/ML**             | TensorFlow • scikit-learn • OpenCV • YOLO                        |
+| **AI/ML**             | TensorFlow • scikit-learn • OpenCV                              |
 | **Cybersecurity**     | Nmap • Wireshark • Metasploit • Burp Suite • SHA-256 • AES/RSA   |
 | **DevOps & Cloud**    | Docker • Git • GitHub Actions • Netlify • Linux (Ubuntu)         |
 | **Concepts**          | Data Structures • Algorithms • OOP • Operating Systems • Networking |
@@ -48,7 +48,7 @@ I’m a passionate Computer Science student from Chennai, India, focused on buil
 - **Riwayat: Indian Cultural Heritage Platform (2024)**  
   - Full-stack web application (React + TypeScript) to document and promote India’s diverse cultural heritage.  
   - Integrated multilingual support, interactive maps, and artisan profiles.  
-  - Deployed on Netlify—improved engagement by 60%.
+  
 
 - **System Security Management (SSM) (2025)**  
   - Developed a Python GUI with SHA-256 password hashing and OTP-based MFA.  
