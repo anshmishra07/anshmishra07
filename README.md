@@ -14,13 +14,16 @@
 
 ```yaml
 name: Ansh Mishra
-status: CS Undergrad
+role: CS Undergrad 👨‍💻
 location: Chennai, India 🇮🇳
-focus: Cybersecurity + AI/ML + Full Stack Dev
+specializing_in: 
+  - Cybersecurity 🔐
+  - Full Stack Dev 🌐
 currently_learning:
-  - DSA
-  - Secure App Dev
-  - React + FastAPI
+  - Secure App Development 🛡️
+  - React + FastAPI ⚙️
+motto: "Code smart. Build secure. Stay curious."
+
 ```
 
 💡 I enjoy building tech that solves real problems — with a strong focus on clean code, secure systems, and smart user experiences.  
