@@ -1,9 +1,10 @@
+
 <h1 align="center">Hey 👋, I'm Ansh Mishra</h1>
 <h3 align="center">👨‍💻 Building Secure, Smart, and Scalable Tech</h3>
 
 ---
 
-🎓 **CS Undergrad @ Shiv Nadar University** (Fully Funded)  
+🎓 **CS Undergrad @ Shiv Nadar University** *(Fully Funded)*  
 🔐 Cybersecurity | 🤖 AI/ML | 🌐 Full-Stack Dev  
 🌍 Based in Chennai, India — curious, collaborative, and always building.
 
@@ -20,6 +21,13 @@ currently_learning:
   - DSA
   - Secure App Dev
   - React + FastAPI
+```
+
+💡 I enjoy building tech that solves real problems — with a strong focus on clean code, secure systems, and smart user experiences.  
+🚀 Always up for collaborating, learning, and contributing to cool projects.
+
+---
+
 ## 🧰 Tech Toolbox
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
@@ -35,6 +43,7 @@ currently_learning:
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=flat)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
 
+---
 
 ## 🤝 Let’s Connect
 
@@ -42,11 +51,10 @@ currently_learning:
 [![Twitter](https://img.shields.io/badge/-@anshmishra07-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/anshmishra07)  
 [![Gmail](https://img.shields.io/badge/-anshmishravg@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anshmishravg@gmail.com)  
 
+
 ---
 
-✅ Just paste this into your GitHub repo’s `README.md` file inside the `anshmishra07` repository. Let me know if you'd like to add:
-- GitHub stats
-- Profile views counter
-- Contribution streak widgets  
-Or even a **dark/light mode switcher** style!
+## ✨ Fun Fact
 
+> Good code is like dark chocolate — clean, strong, and unforgettable. 🍫  
+> *“Code is like humor. When you have to explain it, it’s bad.”* — Cory House
