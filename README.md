@@ -1,71 +1,52 @@
-# Hi there, I’m Ansh Mishra 👋
-
-**Pronouns: He/Him**
-
----
-
-## 🔭 About Me
-I’m a passionate Computer Science student from Chennai, India, focused on building innovative solutions at the intersection of Artificial Intelligence, Cybersecurity, Machine Learning, and Software Development. I love tackling real-world challenges by writing clean, efficient code and collaborating with fellow technologists.
-
-- 🎓 **Currently Learning:**  
-  - Programming Languages: Python • C • Java • JavaScript  
-  - Data Structures & Algorithms
-
-- 💡 **Interests & Expertise:**  
-  - **Artificial Intelligence & Machine Learning** — Building models, experimenting with neural networks, and exploring computer vision.  
-  - **Cybersecurity** — Hands-on experience with vulnerability assessment, network security tools, and secure application design.  
-  - **Full-Stack Development** — Creating web applications with React, Node.js/Express, REST APIs, and databases (MySQL, MongoDB).  
-  - **DevOps & Infrastructure** — Familiar with Docker, Git workflows, and CI/CD pipelines.
-
-- 🔍 **What I’m Looking For:**  
-  - Open-source collaborations  
-  - Coding challenges & hackathons  
-  - Innovative projects that leverage technology to solve real-world problems
+<h1 align="center">Hey 👋, I'm Ansh Mishra</h1>
+<h3 align="center">👨‍💻 Building Secure, Smart, and Scalable Tech</h3>
 
 ---
 
-## 🛠️ Skills & Tools
-
-| Category              | Technologies & Tools                                           |
-| ----------------------| -------------------------------------------------------------- |
-| **Languages**         | Python • C • Java • JavaScript • TypeScript                    |
-| **Web & Frameworks**  | HTML • CSS • React • Node.js • Express • Streamlit • FastAPI    |
-| **Databases**         | MySQL • MongoDB                                                 |
-| **AI/ML**             | TensorFlow • scikit-learn • OpenCV                              |
-| **Cybersecurity**     | Nmap • Wireshark • Metasploit • Burp Suite • SHA-256 • AES/RSA   |
-| **DevOps & Cloud**    | Docker • Git • GitHub Actions • Netlify • Linux (Ubuntu)         |
-| **Concepts**          | Data Structures • Algorithms • OOP • Operating Systems • Networking |
+🎓 **CS Undergrad @ Shiv Nadar University** (Fully Funded)  
+🔐 Cybersecurity | 🤖 AI/ML | 🌐 Full-Stack Dev  
+🌍 Based in Chennai, India — curious, collaborative, and always building.
 
 ---
 
-## 🚀 Projects & Highlights
+## ⚡ A Bit About Me
 
-- **EduScope: AI-Powered Learning Platform (2024)**  
-  - Designed a computer-vision app that uses YOLOv8 for real-time object detection (95%+ accuracy).  
-  - Auto-generated educational content via camera input.  
-  - Built with Python, FastAPI, and Streamlit; enabled personalized progress tracking.
+```yaml
+name: Ansh Mishra
+status: CS Undergrad
+location: Chennai, India 🇮🇳
+focus: Cybersecurity + AI/ML + Full Stack Dev
+currently_learning:
+  - DSA
+  - Secure App Dev
+  - React + FastAPI
+## 🧰 Tech Toolbox
 
-- **Riwayat: Indian Cultural Heritage Platform (2024)**  
-  - Full-stack web application (React + TypeScript) to document and promote India’s diverse cultural heritage.  
-  - Integrated multilingual support, interactive maps, and artisan profiles.  
-  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
+![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=flat)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
 
-- **System Security Management (SSM) (2025)**  
-  - Developed a Python GUI with SHA-256 password hashing and OTP-based MFA.  
-  - Implemented hybrid AES+RSA encryption, simulated firewall/VPN, and real-time audit logging.  
+
+## 🤝 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/anshmishra05)  
+[![Twitter](https://img.shields.io/badge/-@anshmishra07-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/anshmishra07)  
+[![Gmail](https://img.shields.io/badge/-anshmishravg@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anshmishravg@gmail.com)  
 
 ---
 
-## 🤝 Let’s Collaborate
-I’m always excited to team up on open-source projects, contribute to coding challenges, or brainstorm innovative solutions. If you’re working on something aligned with AI, Cybersecurity, ML, or Full-Stack Development, let’s connect!
-
-- **GitHub:** [github.com/anshmishra07](https://github.com/anshmishra07)  
-- **Email:** [anshmishravg@gmail.com](mailto:anshmishravg@gmail.com)
-
-Feel free to drop a PR, open an issue, or send me a message—let’s build something amazing together! 🚀
-
----
-
-*“Code is like humor. When you have to explain it, it’s bad.”*  
-— Cory House
+✅ Just paste this into your GitHub repo’s `README.md` file inside the `anshmishra07` repository. Let me know if you'd like to add:
+- GitHub stats
+- Profile views counter
+- Contribution streak widgets  
+Or even a **dark/light mode switcher** style!
 
