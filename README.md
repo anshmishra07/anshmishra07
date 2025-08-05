@@ -5,7 +5,7 @@
 ---
 
 🎓 **CS Undergrad @ Shiv Nadar University** *(Fully Funded)*  
-🔐 Cybersecurity | 🤖 AI/ML | 🌐 Full-Stack Dev  
+🔐 Cybersecurity | 🌐 Full-Stack Dev  
 🌍 Based in Chennai, India — curious, collaborative, and always building.
 
 ---
