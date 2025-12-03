@@ -19,9 +19,7 @@ location: Chennai, India 🇮🇳
 specializing_in: 
   - Cybersecurity 🔐
   - Full Stack Dev 🌐
-currently_learning:
-  - Secure App Development 🛡️
-  - React + FastAPI ⚙️
+
 motto: "Code smart. Build secure. Stay curious."
 
 ```
